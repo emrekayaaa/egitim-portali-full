@@ -1,0 +1,1 @@
+# egitim-portali-full
