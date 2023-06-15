@@ -1,0 +1,114 @@
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\csc.exe
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\WebApplication1.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\WebApplication1.pdb
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\EntityFramework.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Http.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\EntityFramework.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Http.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\Swashbuckle.Core.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\WebActivatorEx.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\90536\Desktop\Ahmet\Dersler\İnternet Programcılığı\2.Dönem\duzeltme\API\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\csc.exe
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\vbc.exe
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\angular\OdevDagitim\API\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\angular\OdevDagitim\API\WebApplication1\bin\WebApplication1.dll.config
+C:\angular\OdevDagitim\API\WebApplication1\bin\WebApplication1.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\WebApplication1.pdb
+C:\angular\OdevDagitim\API\WebApplication1\bin\EntityFramework.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\Newtonsoft.Json.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\Swashbuckle.Core.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Cors.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Http.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\WebActivatorEx.dll
+C:\angular\OdevDagitim\API\WebApplication1\bin\EntityFramework.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\Newtonsoft.Json.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Http.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\angular\OdevDagitim\API\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\angular\OdevDagitim\API\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\angular\OdevDagitim\API\WebApplication1\obj\Debug\WebApplication1.dll
+C:\angular\OdevDagitim\API\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\csc.exe
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\WebApplication1.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\WebApplication1.pdb
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\EntityFramework.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\Swashbuckle.Core.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Http.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\WebActivatorEx.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\EntityFramework.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Http.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\yunus\Downloads\OdevDagitimPortali-main\OdevDagitimPortali-main\API\WebApplication1\obj\Debug\WebApplication1.pdb

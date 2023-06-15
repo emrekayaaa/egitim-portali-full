@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB04ModelStoreContainer" CdmEntityContainer="DB04Entities">
+    <EntitySetMapping Name="Kayit">
+      <EntityTypeMapping TypeName="DB04Model.Kayit">
+        <MappingFragment StoreEntitySet="Kayit">
+          <ScalarProperty Name="kayitId" ColumnName="kayitId" />
+          <ScalarProperty Name="kayitodevId" ColumnName="kayitodevId" />
+          <ScalarProperty Name="kayitOgrId" ColumnName="kayitOgrId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Odevler">
+      <EntityTypeMapping TypeName="DB04Model.Odevler">
+        <MappingFragment StoreEntitySet="Odevler">
+          <ScalarProperty Name="odevId" ColumnName="odevId" />
+          <ScalarProperty Name="odevAdi" ColumnName="odevAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogrenciler">
+      <EntityTypeMapping TypeName="DB04Model.Ogrenciler">
+        <MappingFragment StoreEntitySet="Ogrenciler">
+          <ScalarProperty Name="OgrId" ColumnName="OgrId" />
+          <ScalarProperty Name="ogrNo" ColumnName="ogrNo" />
+          <ScalarProperty Name="ogrAdsoyad" ColumnName="ogrAdsoyad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
